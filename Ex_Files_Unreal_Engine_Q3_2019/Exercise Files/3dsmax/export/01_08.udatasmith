@@ -1,0 +1,710 @@
+<DatasmithUnrealScene>
+	<Version>0.22</Version>
+	<SDKVersion>4.22E0</SDKVersion>
+	<Host>Autodesk 3dsmax 21.0.845V-Ray Edu Next</Host>
+	<Application Vendor="Autodesk" ProductName="3dsmax" ProductVersion="21.0.845"/>
+	<User ID="76ff3b66490fdde190fa77aeb13ada15" OS="Windows 8"/>
+	<StaticMesh name="4247" label="IslandBase_2">
+		<file path="01_08_Assets/4247.udsmesh"/>
+		<Size a="55260.632813" x="191.628006" y="71.375641" z="86.360001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="75dfd6ff79827f1cbd42919147bb4f64"/>
+		<Material id="0" name="CabDoor_Lower"/>
+	</StaticMesh>
+	<StaticMesh name="4248" label="Counter_2">
+		<file path="01_08_Assets/4248.udsmesh"/>
+		<Size a="134568.734375" x="228.599991" y="101.599998" z="91.000519"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cf6c22b4d27ecbe16aa19e002b10d747"/>
+		<Material id="0" name="CounterTop"/>
+	</StaticMesh>
+	<StaticMesh name="4427" label="4427">
+		<file path="01_08_Assets/4427.udsmesh"/>
+		<Size a="3588.273682" x="51.623146" y="35.961983" z="0.466987"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="60b65a2e95c93d379563292f41671d18"/>
+		<Material id="0" name="PlaceMat"/>
+	</StaticMesh>
+	<StaticMesh name="4406" label="DinnerPlate_001">
+		<file path="01_08_Assets/4406.udsmesh"/>
+		<Size a="1183.216064" x="30.48" y="30.48" z="3.430291"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ace888c07cb85ce8b70eb757db920f67"/>
+		<Material id="0" name="CeramicPlate"/>
+	</StaticMesh>
+	<StaticMesh name="4428" label="DrinkingGlass_001">
+		<file path="01_08_Assets/4428.udsmesh"/>
+		<Size a="183.868347" x="10.704435" y="10.541811" z="15.90836"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ea20e667eac2fa9c4a67787ffa00456b"/>
+		<Material id="0" name="DrinkingGlass"/>
+	</StaticMesh>
+	<StaticMesh name="4358" label="BarStool_001">
+		<file path="01_08_Assets/4358.udsmesh"/>
+		<Size a="25654236.0" x="3016.951904" y="2365.148438" z="5616.723633"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ec5e51c48c1888fa65e53c1ebbffb8ce"/>
+		<Material id="0" name="Barstool_Base"/>
+		<Material id="1" name="StoolSeat"/>
+	</StaticMesh>
+	<StaticMesh name="4368" label="3DGeom_8_Defintion_1_002">
+		<file path="01_08_Assets/4368.udsmesh"/>
+		<Size a="6008763.0" x="2540.0" y="655.408142" z="466.716888"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5336a11baade90d99c64000398159d76"/>
+		<Material id="0" name="Barstool_Base"/>
+	</StaticMesh>
+	<StaticMesh name="5473" label="BarStool_002">
+		<file path="01_08_Assets/5473.udsmesh"/>
+		<Size a="25654236.0" x="3016.951904" y="2365.148438" z="5616.723633"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4338914859d950451233e094b99da306"/>
+		<Material id="0" name="Barstool_Base"/>
+		<Material id="1" name="StoolSeat"/>
+	</StaticMesh>
+	<StaticMesh name="5474" label="BarStool_003">
+		<file path="01_08_Assets/5474.udsmesh"/>
+		<Size a="51956808.0" x="3016.951904" y="2365.148438" z="5616.723633"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c16f2be0ebb8b06f7d7e85317a68506b"/>
+	</StaticMesh>
+	<StaticMesh name="4414" label="Cutlery_LFork001">
+		<file path="01_08_Assets/4414.udsmesh"/>
+		<Size a="352.18045" x="4.283089" y="33.669201" z="3.033184"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="30247abced9bdff296898f24639e8656"/>
+		<Material id="0" name="Cutlery_Metal"/>
+		<Material id="1" name="CutleryHandle"/>
+		<Material id="2" name="Cutlery_Metal__1_"/>
+	</StaticMesh>
+	<StaticMesh name="4410" label="Cutlery_SFork001">
+		<file path="01_08_Assets/4410.udsmesh"/>
+		<Size a="304.872742" x="3.747703" y="28.773207" z="2.653093"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3267a61053b70de71ec19059987dcf77"/>
+		<Material id="0" name="Cutlery_Metal"/>
+		<Material id="1" name="CutleryHandle"/>
+		<Material id="2" name="Cutlery_Metal__1_"/>
+	</StaticMesh>
+	<StaticMesh name="4418" label="Cutlery_Kife001">
+		<file path="01_08_Assets/4418.udsmesh"/>
+		<Size a="749.322205" x="3.264726" y="37.459496" z="3.072924"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d098af5cc4ed94963a759b7741a5a14d"/>
+		<Material id="0" name="Cutlery_Metal"/>
+		<Material id="1" name="CutleryHandle"/>
+		<Material id="2" name="Cutlery_Metal__1_"/>
+	</StaticMesh>
+	<StaticMesh name="4422" label="Cutlery_LSpoon">
+		<file path="01_08_Assets/4422.udsmesh"/>
+		<Size a="1067.975708" x="6.083264" y="32.560806" z="3.008688"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d5647a54fad35aaee6745b3919d3e720"/>
+		<Material id="0" name="Cutlery_Metal"/>
+		<Material id="1" name="CutleryHandle"/>
+		<Material id="2" name="Cutlery_Metal__1_"/>
+	</StaticMesh>
+	<StaticMesh name="4426" label="Cutlery_SSpoon001">
+		<file path="01_08_Assets/4426.udsmesh"/>
+		<Size a="802.194763" x="5.322855" y="28.490707" z="2.632602"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c586fb1e3b9a2127bdbf6e2c0f2856b0"/>
+		<Material id="0" name="Cutlery_Metal"/>
+		<Material id="1" name="CutleryHandle"/>
+		<Material id="2" name="Cutlery_Metal__1_"/>
+	</StaticMesh>
+	<StaticMesh name="5475" label="DrinkingGlass_002">
+		<file path="01_08_Assets/5475.udsmesh"/>
+		<Size a="183.868347" x="10.704435" y="10.541811" z="15.90836"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ea20e667eac2fa9c4a67787ffa00456b"/>
+		<Material id="0" name="DrinkingGlass"/>
+	</StaticMesh>
+	<StaticMesh name="5493" label="Box001">
+		<file path="01_08_Assets/5493.udsmesh"/>
+		<Size a="2157122.25" x="782.998413" y="685.838074" z="11.43062"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1b3dfbe8e17511888533e12a4d298a70"/>
+	</StaticMesh>
+	<ActorMesh name="4247" label="IslandBase_2" layer="Lights">
+		<mesh name="4247"/>
+		<Transform tx="316.252167" ty="-54.116543" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 4247" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="4248" label="Counter_2" layer="Lights">
+		<mesh name="4248"/>
+		<Transform tx="329.046417" ty="-43.923828" tz="85.907875" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 4248" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5485" label="002" layer="0">
+		<mesh name="4427"/>
+		<Transform tx="408.351532" ty="-15.923214" tz="90.74614" sx="1.0" sy="1.0" sz="1.713029" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 5485" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5477" label="001" layer="0">
+		<mesh name="4427"/>
+		<Transform tx="333.497223" ty="-15.923214" tz="90.74614" sx="1.0" sy="1.0" sz="1.713029" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 5477" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="4427" label="4427" layer="0">
+		<mesh name="4427"/>
+		<Transform tx="255.208038" ty="-15.923214" tz="90.74614" sx="1.0" sy="1.0" sz="1.713029" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 4427" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5484" label="DinnerPlate_003" layer="0">
+		<mesh name="4406"/>
+		<Transform tx="407.654053" ty="-16.17033" tz="93.011223" sx="1.0" sy="1.0" sz="0.770712" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 5484" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5476" label="DinnerPlate_002" layer="0">
+		<mesh name="4406"/>
+		<Transform tx="332.799744" ty="-16.17033" tz="93.011223" sx="1.0" sy="1.0" sz="0.770712" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 5476" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="4406" label="DinnerPlate_001" layer="0">
+		<mesh name="4406"/>
+		<Transform tx="254.510559" ty="-16.17033" tz="93.011223" sx="1.0" sy="1.0" sz="0.770712" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 4406" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="4428" label="DrinkingGlass_001" layer="0">
+		<mesh name="4428"/>
+		<Transform tx="274.597687" ty="-45.821545" tz="91.287666" sx="1.0" sy="1.0" sz="1.22953" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 4428" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="4358" label="BarStool_001" layer="Layer0">
+		<mesh name="4358"/>
+		<Transform tx="256.075958" ty="41.502739" tz="71.778214" sx="0.016544" sy="0.016544" sz="0.015303" qx="-0.0" qy="0.0" qz="-0.706018" qw="0.708194" qhex="7283C4B166CB2E339ABD34BF2F4C353F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 4358" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="4368" label="3DGeom_8_Defintion_1_002" layer="Layer0">
+		<mesh name="4368"/>
+		<Transform tx="260.972351" ty="25.636652" tz="69.811226" sx="0.006875" sy="0.00636" sz="0.006875" qx="-0.001088" qy="0.707106" qz="-0.707106" qw="0.001088" qhex="258E8EBAE804353FE20435BF218E8E3A"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 4368" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5473" label="BarStool_002" layer="Layer0">
+		<mesh name="5473"/>
+		<Transform tx="333.389191" ty="41.502739" tz="71.778214" sx="0.016544" sy="0.016544" sz="0.015303" qx="-0.0" qy="0.0" qz="-0.706018" qw="0.708194" qhex="7283C4B166CB2E339ABD34BF2F4C353F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 5473" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5474" label="BarStool_003" layer="Layer0">
+		<mesh name="5474"/>
+		<Transform tx="411.085846" ty="41.502739" tz="71.778214" sx="0.016544" sy="0.016544" sz="0.015303" qx="-0.0" qy="0.0" qz="-0.706018" qw="0.708194" qhex="7283C4B166CB2E339ABD34BF2F4C353F"/>
+		<tag value="Datasmith.Attributes.Geometry: BoundingBox" />
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 5474" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5486" label="Cutlery_LFork003" layer="Layer0">
+		<mesh name="4414"/>
+		<Transform tx="390.626068" ty="-10.500753" tz="91.852013" sx="0.613921" sy="0.613921" sz="0.613921" qx="-0.0" qy="0.0" qz="0.0" qw="1.0" qhex="000080B100000000000000000000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 5486" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5478" label="Cutlery_LFork002" layer="Layer0">
+		<mesh name="4414"/>
+		<Transform tx="315.771729" ty="-10.500753" tz="91.852013" sx="0.613921" sy="0.613921" sz="0.613921" qx="-0.0" qy="0.0" qz="0.0" qw="1.0" qhex="000080B100000000000000000000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 5478" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="4414" label="Cutlery_LFork001" layer="Layer0">
+		<mesh name="4414"/>
+		<Transform tx="237.482529" ty="-10.500753" tz="91.852013" sx="0.613921" sy="0.613921" sz="0.613921" qx="-0.0" qy="0.0" qz="0.0" qw="1.0" qhex="000080B100000000000000000000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 4414" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5487" label="Cutlery_SFork003" layer="Layer0">
+		<mesh name="4410"/>
+		<Transform tx="386.982391" ty="-9.002318" tz="91.777779" sx="0.613921" sy="0.613921" sz="0.613921" qx="-0.0" qy="0.0" qz="0.0" qw="1.0" qhex="000080B100000000000000000000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 5487" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5479" label="Cutlery_SFork002" layer="Layer0">
+		<mesh name="4410"/>
+		<Transform tx="312.128082" ty="-9.002318" tz="91.777779" sx="0.613921" sy="0.613921" sz="0.613921" qx="-0.0" qy="0.0" qz="0.0" qw="1.0" qhex="000080B100000000000000000000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 5479" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="4410" label="Cutlery_SFork001" layer="Layer0">
+		<mesh name="4410"/>
+		<Transform tx="233.838852" ty="-9.002318" tz="91.777779" sx="0.613921" sy="0.613921" sz="0.613921" qx="-0.0" qy="0.0" qz="0.0" qw="1.0" qhex="000080B100000000000000000000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 4410" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5488" label="Cutlery_Kife003" layer="Layer0">
+		<mesh name="4418"/>
+		<Transform tx="424.391998" ty="-11.725331" tz="91.830719" sx="0.613921" sy="0.613921" sz="0.613921" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 5488" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5480" label="Cutlery_Kife002" layer="Layer0">
+		<mesh name="4418"/>
+		<Transform tx="349.537689" ty="-11.725331" tz="91.830719" sx="0.613921" sy="0.613921" sz="0.613921" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 5480" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="4418" label="Cutlery_Kife001" layer="Layer0">
+		<mesh name="4418"/>
+		<Transform tx="271.248444" ty="-11.725331" tz="91.830719" sx="0.613921" sy="0.613921" sz="0.613921" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 4418" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5489" label="Cutlery_LSpoon002" layer="Layer0">
+		<mesh name="4422"/>
+		<Transform tx="428.160706" ty="-10.18744" tz="92.215958" sx="0.613921" sy="0.613921" sz="0.613921" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 5489" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5481" label="Cutlery_LSpoon001" layer="Layer0">
+		<mesh name="4422"/>
+		<Transform tx="353.306396" ty="-10.18744" tz="92.215958" sx="0.613921" sy="0.613921" sz="0.613921" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 5481" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="4422" label="Cutlery_LSpoon" layer="Layer0">
+		<mesh name="4422"/>
+		<Transform tx="275.017212" ty="-10.18744" tz="92.215958" sx="0.613921" sy="0.613921" sz="0.613921" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 4422" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5490" label="Cutlery_SSpoon003" layer="Layer0">
+		<mesh name="4426"/>
+		<Transform tx="432.189667" ty="-8.93806" tz="92.107979" sx="0.613921" sy="0.613921" sz="0.613921" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 5490" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5482" label="Cutlery_SSpoon002" layer="Layer0">
+		<mesh name="4426"/>
+		<Transform tx="357.335358" ty="-8.93806" tz="92.107979" sx="0.613921" sy="0.613921" sz="0.613921" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 5482" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="4426" label="Cutlery_SSpoon001" layer="Layer0">
+		<mesh name="4426"/>
+		<Transform tx="279.046143" ty="-8.93806" tz="92.107979" sx="0.613921" sy="0.613921" sz="0.613921" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 4426" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5483" label="DrinkingGlass_003" layer="0">
+		<mesh name="5475"/>
+		<Transform tx="427.741211" ty="-45.821545" tz="91.287666" sx="1.0" sy="1.0" sz="1.22953" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 5483" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5475" label="DrinkingGlass_002" layer="0">
+		<mesh name="5475"/>
+		<Transform tx="352.886902" ty="-45.821545" tz="91.287666" sx="1.0" sy="1.0" sz="1.22953" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 5475" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5493" label="Box001" layer="Lights">
+		<mesh name="5493"/>
+		<Transform tx="375.814331" ty="-18.425232" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Box" />
+		<tag value="Max.handle: 5493" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<Light name="5501" type="PointLight" enabled="1" label="Spot004" layer="Lights">
+		<Transform tx="123.161163" ty="-217.073944" tz="429.992157" sx="1.0" sy="1.0" sz="1.0" qx="-0.74487" qy="-0.072175" qz="0.655757" qw="0.099717" qhex="C5AF3EBF91D093BDA9DF273F7E38CC3D"/>
+		<Color usetemp="0" temperature="6500.0" R="1.0" G="1.0" B="1.0"/>
+		<Intensity value="1049.999982"/>
+		<IntensityUnits value="Candelas"/>
+		<tag value="Max.superclassof: light" />
+		<tag value="Max.classof: Omnilight" />
+		<tag value="Max.handle: 5501" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</Light>
+	<Light name="5500" type="PointLight" enabled="1" label="Spot003" layer="Lights">
+		<Transform tx="551.497986" ty="-202.672226" tz="429.992157" sx="1.0" sy="1.0" sz="1.0" qx="-0.682104" qy="-0.068278" qz="0.725983" qw="0.05496" qhex="5C9E2EBF81D58BBD0BDA393F4A1D613D"/>
+		<Color usetemp="0" temperature="6500.0" R="1.0" G="1.0" B="1.0"/>
+		<Intensity value="1049.999982"/>
+		<IntensityUnits value="Candelas"/>
+		<tag value="Max.superclassof: light" />
+		<tag value="Max.classof: Omnilight" />
+		<tag value="Max.handle: 5500" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</Light>
+	<Light name="5499" type="PointLight" enabled="1" label="Spot002" layer="Lights">
+		<Transform tx="551.497986" ty="259.124237" tz="429.992157" sx="1.0" sy="1.0" sz="1.0" qx="-0.660019" qy="0.196135" qz="0.698917" qw="-0.193444" qhex="00F728BF9AD7483E3EEC323F3C1646BE"/>
+		<Color usetemp="0" temperature="6500.0" R="1.0" G="1.0" B="1.0"/>
+		<Intensity value="1049.999982"/>
+		<IntensityUnits value="Candelas"/>
+		<tag value="Max.superclassof: light" />
+		<tag value="Max.classof: Omnilight" />
+		<tag value="Max.handle: 5499" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</Light>
+	<Light name="5496" type="PointLight" enabled="1" label="Spot001" layer="Lights">
+		<Transform tx="123.161163" ty="259.124237" tz="429.992157" sx="1.0" sy="1.0" sz="1.0" qx="-0.73863" qy="0.136814" qz="0.645374" qw="-0.138565" qhex="D7163DBF19190C3E3B37253FF0E30DBE"/>
+		<Color usetemp="0" temperature="6500.0" R="1.0" G="1.0" B="1.0"/>
+		<Intensity value="1049.999982"/>
+		<IntensityUnits value="Candelas"/>
+		<tag value="Max.superclassof: light" />
+		<tag value="Max.classof: Omnilight" />
+		<tag value="Max.handle: 5496" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</Light>
+	<UEPbrMaterial name="CabDoor_Lower" label="CabDoor_Lower">
+		<Expressions>
+			<Color Name="Diffuse" constant="(R=0.145098,G=0.145098,B=0.145098,A=1.000000)"/>
+			<Color Name="Reflection" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Desaturation Name="">
+				<0 expression="1" OutputIndex="0"/>
+			</Desaturation>
+			<Scalar Name="Reflection Glossiness" constant="1.0"/>
+			<Multiply Name="">
+				<0 expression="3" OutputIndex="0"/>
+				<1 expression="3" OutputIndex="0"/>
+			</Multiply>
+			<OneMinus Name="">
+				<0 expression="4" OutputIndex="0"/>
+			</OneMinus>
+			<Power Name="">
+				<KeyValueProperty name="ConstExponent" type="Float" val="1.500000"/>
+				<0 expression="5" OutputIndex="0"/>
+			</Power>
+			<LinearInterpolate Name="">
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="15" OutputIndex="0"/>
+				<2 expression="2" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Fresnel IOR" constant="1.6"/>
+			<Scalar Name="" constant="-1.0"/>
+			<Add Name="">
+				<0 expression="8" OutputIndex="0"/>
+				<1 expression="9" OutputIndex="0"/>
+			</Add>
+			<Multiply Name="">
+				<0 expression="10" OutputIndex="0"/>
+				<1 expression="12" OutputIndex="0"/>
+			</Multiply>
+			<Scalar Name="" constant="0.02"/>
+			<Power Name="">
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="14" OutputIndex="0"/>
+			</Power>
+			<Scalar Name="" constant="0.5"/>
+			<LinearInterpolate Name="">
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="0"/>
+				<2 expression="13" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Power Name="">
+				<0 expression="11" OutputIndex="0"/>
+				<1 expression="17" OutputIndex="0"/>
+			</Power>
+			<Scalar Name="" constant="0.2"/>
+			<Multiply Name="">
+				<0 expression="2" OutputIndex="0"/>
+				<1 expression="16" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<BaseColor expression="7" OutputIndex="0"/>
+		<Metallic expression="18" OutputIndex="0"/>
+		<Roughness expression="6" OutputIndex="0"/>
+		<Specular expression="18" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<Material name="CounterTop" label="CounterTop">
+		<Shader name="CounterTop_coat">
+			<Stacked enabled="1"/>
+			<Blendmode value="1.0"/>
+			<IOR value="1.52"/>
+			<Bumpval value="1.0"/>
+			<Reflectancecomp mode="1" compMode="Mix" >
+				<Color R="1.0" G="1.0" B="0.945098"/>
+				<Color R="0.0" G="0.0" B="0.0"/>
+				<Value1 value="0.7" desc="Weight"/>
+			</Reflectancecomp>
+			<Roughnessval value="0.05" desc="Roughness"/>
+		</Shader>
+		<Shader name="CounterTop">
+			<IOR value="1.52"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.835294" G="0.835294" B="0.835294"/>
+			<Reflectancecomp mode="1" compMode="Mix" >
+				<Color R="0.188235" G="0.188235" B="0.188235"/>
+				<Color R="0.0" G="0.0" B="0.0"/>
+				<Value1 value="0.35" desc="Weight"/>
+			</Reflectancecomp>
+			<Roughnessval value="0.24" desc="Roughness"/>
+			<RefractionTransparencycolor R="0.0" G="0.0" B="0.0"/>
+			<Emittancecolor R="0.0" G="0.0" B="0.0"/>
+		</Shader>
+	</Material>
+	<Material name="PlaceMat" label="PlaceMat">
+		<Shader name="PlaceMat">
+			<IOR value="1.52"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.639216" G="0.839216" B="0.25098"/>
+			<Roughnessval value="0.75" desc="Roughness"/>
+			<RefractionTransparencycolor R="0.0" G="0.0" B="0.0"/>
+			<Emittancecolor R="0.0" G="0.0" B="0.0"/>
+		</Shader>
+	</Material>
+	<UEPbrMaterial name="CeramicPlate" label="CeramicPlate">
+		<Expressions>
+			<Color Name="Diffuse" constant="(R=0.600000,G=0.843137,B=0.933333,A=1.000000)"/>
+			<Color Name="Reflection" constant="(R=0.282353,G=0.282353,B=0.282353,A=1.000000)"/>
+			<Max Name="">
+				<0 expression="3" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="2"/>
+			</Max>
+			<Max Name="">
+				<0 expression="1" OutputIndex="0"/>
+				<1 expression="1" OutputIndex="1"/>
+			</Max>
+			<Scalar Name="Reflection Glossiness" constant="0.6"/>
+			<Multiply Name="">
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="4" OutputIndex="0"/>
+			</Multiply>
+			<OneMinus Name="">
+				<0 expression="5" OutputIndex="0"/>
+			</OneMinus>
+			<Power Name="">
+				<KeyValueProperty name="ConstExponent" type="Float" val="1.500000"/>
+				<0 expression="6" OutputIndex="0"/>
+			</Power>
+			<Multiply Name="">
+				<0 expression="0" OutputIndex="0"/>
+				<1 expression="9" OutputIndex="0"/>
+			</Multiply>
+			<OneMinus Name="">
+				<0 expression="2" OutputIndex="0"/>
+			</OneMinus>
+			<Add Name="">
+				<0 expression="8" OutputIndex="0"/>
+				<1 expression="11" OutputIndex="0"/>
+			</Add>
+			<Multiply Name="">
+				<0 expression="1" OutputIndex="0"/>
+				<1 expression="2" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<BaseColor expression="10" OutputIndex="0"/>
+		<Metallic expression="2" OutputIndex="0"/>
+		<Roughness expression="7" OutputIndex="0"/>
+		<Specular expression="2" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<Material name="DrinkingGlass" label="DrinkingGlass">
+		<Shader name="DrinkingGlass">
+			<IOR value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="1.0" G="1.0" B="1.0"/>
+			<Reflectancecolor R="1.0" G="1.0" B="1.0"/>
+			<Roughnessval value="0.0" desc="Roughness"/>
+			<RefractionTransparencycolor R="0.729412" G="0.847059" B="0.894118"/>
+			<Emittancecolor R="0.0" G="0.0" B="0.0"/>
+		</Shader>
+	</Material>
+	<Material name="Barstool_Base" label="Barstool_Base">
+		<Shader name="Barstool_Base">
+			<IOR value="1.52"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.847059" G="0.490196" B="0.066667"/>
+			<Roughnessval value="0.75" desc="Roughness"/>
+			<RefractionTransparencycolor R="0.0" G="0.0" B="0.0"/>
+			<Emittancecolor R="0.0" G="0.0" B="0.0"/>
+		</Shader>
+	</Material>
+	<Material name="StoolSeat" label="StoolSeat">
+		<Shader name="StoolSeat">
+			<IOR value="1.52"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.138423" G="0.462246" B="0.841727"/>
+			<Roughnessval value="0.75" desc="Roughness"/>
+			<RefractionTransparencycolor R="0.0" G="0.0" B="0.0"/>
+			<Emittancecolor R="0.0" G="0.0" B="0.0"/>
+		</Shader>
+	</Material>
+	<Material name="Cutlery_Metal" label="Cutlery_Metal">
+		<Shader name="Cutlery_Metal">
+			<IOR value="1.52"/>
+			<Bumpval value="1.0"/>
+			<Metalval value="0.85"/>
+			<Diffusecolor R="0.914" G="0.914" B="0.92"/>
+			<Roughnessval value="0.34" desc="Roughness"/>
+			<RefractionTransparencycolor R="0.0" G="0.0" B="0.0"/>
+			<Emittancecolor R="0.0" G="0.0" B="0.0"/>
+		</Shader>
+	</Material>
+	<Material name="CutleryHandle" label="CutleryHandle">
+		<Shader name="CutleryHandle">
+			<IOR value="1.52"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.031373" G="0.031373" B="0.031373"/>
+			<Roughnessval value="0.75" desc="Roughness"/>
+			<RefractionTransparencycolor R="0.0" G="0.0" B="0.0"/>
+			<Emittancecolor R="0.0" G="0.0" B="0.0"/>
+		</Shader>
+	</Material>
+	<Material name="Cutlery_Metal__1_" label="Cutlery_Metal__1_">
+		<Shader name="Cutlery_Metal__1_">
+			<IOR value="1.52"/>
+			<Bumpval value="1.0"/>
+			<Metalval value="1.0"/>
+			<Diffusecolor R="0.914" G="0.914" B="0.92"/>
+			<Roughnessval value="0.51" desc="Roughness"/>
+			<RefractionTransparencycolor R="0.0" G="0.0" B="0.0"/>
+			<Emittancecolor R="0.0" G="0.0" B="0.0"/>
+		</Shader>
+	</Material>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>

@@ -1,0 +1,271 @@
+<DatasmithUnrealScene>
+	<Version>0.22</Version>
+	<SDKVersion>4.22E0</SDKVersion>
+	<Host>Autodesk 3dsmax 21.0.845Arnold</Host>
+	<Application Vendor="Autodesk" ProductName="3dsmax" ProductVersion="21.0.845"/>
+	<User ID="76ff3b66490fdde190fa77aeb13ada15" OS="Windows 8"/>
+	<StaticMesh name="2" label="Teapot001">
+		<file path="01_07_Assets/2.udsmesh"/>
+		<Size a="16080.755859" x="114.260307" y="71.044655" z="55.94767"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4eee610552d83290efd75301f4ae7779"/>
+		<Material id="0" name="02_-_Default"/>
+	</StaticMesh>
+	<StaticMesh name="3" label="Teapot002">
+		<file path="01_07_Assets/3.udsmesh"/>
+		<Size a="16080.755859" x="114.260307" y="71.044655" z="55.94767"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4eee610552d83290efd75301f4ae7779"/>
+		<Material id="0" name="02_-_Default"/>
+	</StaticMesh>
+	<StaticMesh name="5" label="Teapot003">
+		<file path="01_07_Assets/5.udsmesh"/>
+		<Size a="16080.755859" x="114.260307" y="71.044655" z="55.94767"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4eee610552d83290efd75301f4ae7779"/>
+		<Material id="0" name="02_-_Default"/>
+	</StaticMesh>
+	<StaticMesh name="25" label="Box004">
+		<file path="01_07_Assets/25.udsmesh"/>
+		<Size a="703236.8125" x="390.957764" y="390.982269" z="366.17276"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a6672a16ff59c4e4d74fbaff77dc8ae5"/>
+		<Material id="0" name="01_-_Default"/>
+	</StaticMesh>
+	<StaticMesh name="26" label="Box005">
+		<file path="01_07_Assets/26.udsmesh"/>
+		<Size a="703236.8125" x="390.957764" y="390.982269" z="366.17276"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a6672a16ff59c4e4d74fbaff77dc8ae5"/>
+		<Material id="0" name="01_-_Default"/>
+	</StaticMesh>
+	<StaticMesh name="27" label="Box006">
+		<file path="01_07_Assets/27.udsmesh"/>
+		<Size a="703236.8125" x="390.957764" y="390.982269" z="366.17276"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a6672a16ff59c4e4d74fbaff77dc8ae5"/>
+		<Material id="0" name="01_-_Default"/>
+	</StaticMesh>
+	<StaticMesh name="28" label="Box007">
+		<file path="01_07_Assets/28.udsmesh"/>
+		<Size a="13765640.0" x="2507.364258" y="1827.568115" z="29.556412"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0548df275f97544aa880567404d0cae6"/>
+		<Material id="0" name="01_-_Default"/>
+	</StaticMesh>
+	<ActorMesh name="2" label="Teapot001" layer="0">
+		<mesh name="2"/>
+		<Transform tx="-629.950928" ty="-18.515047" tz="4.098049" sx="1.387" sy="1.387" sz="1.387" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 2" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="3" label="Teapot002" layer="0">
+		<mesh name="3"/>
+		<Transform tx="-11.304522" ty="-18.515047" tz="4.098049" sx="1.387" sy="1.387" sz="1.387" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 3" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="5" label="Teapot003" layer="0">
+		<mesh name="5"/>
+		<Transform tx="591.120972" ty="-18.515047" tz="4.098049" sx="1.387" sy="1.387" sz="1.387" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 5" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="25" label="Box004" layer="0">
+		<mesh name="25"/>
+		<Transform tx="-632.690674" ty="37.380013" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 25" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="26" label="Box005" layer="0">
+		<mesh name="26"/>
+		<Transform tx="-10.685937" ty="37.380013" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 26" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="27" label="Box006" layer="0">
+		<mesh name="27"/>
+		<Transform tx="592.988281" ty="37.380013" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 27" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="28" label="Box007" layer="0">
+		<mesh name="28"/>
+		<Transform tx="-26.274172" ty="194.005707" tz="-0.446213" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 28" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<Camera name="41" label="PhysCamera001" layer="0">
+		<Transform tx="-13.575113" ty="3196.466309" tz="449.442993" sx="1.0" sy="1.0" sz="1.0" qx="0.034616" qy="0.034769" qz="-0.704695" qw="0.707812" qhex="C8C90D3D486A0E3DEC6634BF3033353F"/>
+		<SensorWidth value="17.299999"/>
+		<SensorAspectRatio value="1.777778"/>
+		<DepthOfField enabled="0"/>
+		<FocusDistance value="2489.612549"/>
+		<FStop value="8.0"/>
+		<FocalLength value="28.0"/>
+		<Post>
+			<CameraISO value="1499.99939"/>
+			<ShutterSpeed value="59.999973"/>
+			<FStop value="8.0"/>
+		</Post>
+		<tag value="Max.superclassof: camera" />
+		<tag value="Max.classof: Physical" />
+		<tag value="Max.handle: 41" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</Camera>
+	<PostProcessVolume name="Global_Exposure" label="Global_Exposure">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<Enabled value="1.0"/>
+		<Unbound value="1.0"/>
+		<Post>
+			<CameraISO value="200.0"/>
+			<ShutterSpeed value="0.03125"/>
+			<FStop value="8.0"/>
+		</Post>
+	</PostProcessVolume>
+	<Actor name="20" label="VRayLight001_Target" layer="0">
+		<Transform tx="-623.122986" ty="-158.71225" tz="-125.911888" sx="1.0" sy="1.0" sz="1.0" qx="-0.357717" qy="-0.005207" qz="0.013592" qw="0.933717" qhex="A926B7BEBEA1AABB4BB15E3C0E086F3F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Targetobject" />
+		<tag value="Max.handle: 20" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</Actor>
+	<Actor name="37" label="TPhotometricLight003_Target" layer="0">
+		<Transform tx="593.438599" ty="-31.349249" tz="40.057381" sx="1.0" sy="1.0" sz="1.0" qx="0.5" qy="0.5" qz="-0.5" qw="-0.5" qhex="FEFFFF3E0100003F000000BFFEFFFFBE"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Targetobject" />
+		<tag value="Max.handle: 37" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<tag value="Max.LookAt.handle: 38" />
+	</Actor>
+	<Actor name="34" label="TPhotometricLight001_Target" layer="0">
+		<Transform tx="-630.540405" ty="-31.349249" tz="40.057381" sx="1.0" sy="1.0" sz="1.0" qx="0.5" qy="0.5" qz="-0.5" qw="-0.5" qhex="FEFFFF3E0100003F000000BFFEFFFFBE"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Targetobject" />
+		<tag value="Max.handle: 34" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<tag value="Max.LookAt.handle: 33" />
+	</Actor>
+	<Actor name="39" label="TPhotometricLight004_Target" layer="0">
+		<Transform tx="-8.185547" ty="-31.349249" tz="40.057381" sx="1.0" sy="1.0" sz="1.0" qx="0.5" qy="0.5" qz="-0.5" qw="-0.5" qhex="FEFFFF3E0100003F000000BFFEFFFFBE"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Targetobject" />
+		<tag value="Max.handle: 39" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<tag value="Max.LookAt.handle: 40" />
+	</Actor>
+	<Light name="33" type="AreaLight" enabled="1" label="TPhotometricLight001" layer="0">
+		<Transform tx="-630.540405" ty="226.41127" tz="346.583374" sx="1.0" sy="1.0" sz="1.0" qx="-0.641015" qy="0.641015" qz="0.298496" qw="0.298496" qhex="8C1924BF8C19243F7FD4983E7ED4983E"/>
+		<Color usetemp="0" temperature="3600.0" R="1.0" G="1.0" B="1.0"/>
+		<Intensity value="1500.0"/>
+		<IntensityUnits value="Candelas"/>
+		<InnerConeAngle value="15.0"/>
+		<OuterConeAngle value="30.0"/>
+		<Shape type="None" width="60.959999" length="121.919998" LightType="Spot"/>
+		<tag value="Max.superclassof: light" />
+		<tag value="Max.classof: Target_Area" />
+		<tag value="Max.handle: 33" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<tag value="Max.Target.handle: 34" />
+	</Light>
+	<Light name="38" type="AreaLight" enabled="1" label="TPhotometricLight003" layer="0">
+		<Transform tx="593.438599" ty="226.41127" tz="346.583374" sx="1.77" sy="1.0" sz="1.0" qx="-0.641015" qy="0.641015" qz="0.298496" qw="0.298496" qhex="8C1924BF8C19243F7FD4983E7ED4983E"/>
+		<Color usetemp="0" temperature="3600.0" R="1.0" G="1.0" B="1.0"/>
+		<Intensity value="3000.0"/>
+		<IntensityUnits value="Candelas"/>
+		<InnerConeAngle value="-0.5"/>
+		<OuterConeAngle value="-0.5"/>
+		<Shape type="None" width="60.959999" length="121.919998" LightType="Point"/>
+		<tag value="Max.superclassof: light" />
+		<tag value="Max.classof: Target_Area" />
+		<tag value="Max.handle: 38" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<tag value="Max.Target.handle: 37" />
+	</Light>
+	<Light name="40" type="AreaLight" enabled="1" label="TPhotometricLight004" layer="0">
+		<Transform tx="-8.185547" ty="226.41127" tz="346.583374" sx="0.971794" sy="0.971794" sz="0.971794" qx="-0.641015" qy="0.641015" qz="0.298496" qw="0.298496" qhex="8C1924BF8C19243F7FD4983E7ED4983E"/>
+		<Color usetemp="0" temperature="3600.0" R="1.0" G="1.0" B="1.0"/>
+		<Intensity value="7500.0"/>
+		<IntensityUnits value="Candelas"/>
+		<InnerConeAngle value="-0.5"/>
+		<OuterConeAngle value="-0.5"/>
+		<Shape type="None" width="60.959999" length="121.919998" LightType="Point"/>
+		<tag value="Max.superclassof: light" />
+		<tag value="Max.classof: Target_Area" />
+		<tag value="Max.handle: 40" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<tag value="Max.Target.handle: 39" />
+	</Light>
+	<Material name="02_-_Default" label="02_-_Default">
+		<Shader name="02_-_Default">
+			<IOR value="1.52"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.0" G="0.633093" B="0.564774"/>
+			<Roughnessval value="0.75" desc="Roughness"/>
+			<RefractionTransparencycolor R="0.0" G="0.0" B="0.0"/>
+			<Emittancecolor R="0.0" G="0.0" B="0.0"/>
+		</Shader>
+	</Material>
+	<Material name="01_-_Default" label="01_-_Default">
+		<Shader name="01_-_Default">
+			<IOR value="1.52"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="1.0" G="1.0" B="1.0"/>
+			<Roughnessval value="0.75" desc="Roughness"/>
+			<RefractionTransparencycolor R="0.0" G="0.0" B="0.0"/>
+			<Emittancecolor R="0.0" G="0.0" B="0.0"/>
+		</Shader>
+	</Material>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>
